@@ -1,0 +1,75 @@
+{
+    "name":"Warrier",
+    "location":"Bangalore",
+    "professional-experience":"8 years",
+    "awards":[{
+        "title":"Microsoft Certified Azure Fundamentals(AZ900)",
+        "date":"2021-02-21"
+    }],
+    "skills":[
+        {
+            "name":"C#",
+            "level":"Proficient"
+        },
+        {
+            "name":"Javascript",
+            "level":"Intermediate"
+        },
+        {
+            "name":"Typescript",
+            "level":"Intermediate"
+        },
+        {
+            "name":"Python",
+            "level":"Beginner"
+        },
+        {
+            "name":"Azure",
+            "level":"Beginner"
+        },
+        {
+            "name":"Angular",
+            "level":"Intermediate"
+        },
+        {
+            "name":"WPF",
+            "level":"Intermediate"
+        },
+        {
+            "name":"WinForms",
+            "level":"Proficient"
+        },
+        {
+            "name":"ASP .Net Core",
+            "level":"Beginner"
+        }
+    ],
+    "tools":[
+        {
+            "development":
+            [
+                {
+                    "name":"Visual Studio",
+                    "level": "Proficient"
+                },
+                {
+                    "name":"Visual Studio Code",
+                    "level": "Proficient"
+                },
+                {
+                    "name":"GIT",
+                    "level": "Proficient"
+                }
+            ],
+            "code-analysis":[
+                {
+                    "name":"sonarqube"
+                },
+                {
+                    "name":"TICS"
+                }
+            ]
+            
+        }
+    ]
+}
